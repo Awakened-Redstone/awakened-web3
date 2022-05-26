@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg width="1920" height="1920" viewBox="0 0 1920 1920" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <g>
+      <path
+        fill="currentColor"
+        stroke-width="1.33333"
+        d="M 240,1080 V 960 h 60 60 v -60 -60 h 60 60 v -60 -60 h 60 60 v -60 -60 h 60 60 v -60 -60 h 60 60 v -60 -60 h 120 120 v 60 60 h 60 60 v 60 60 h -60 -60 V 540 480 H 960 840 v 60 60 h -60 -60 v 60 60 h -60 -60 v 60 60 h -60 -60 v 60 60 h -60 -60 v 120 120 h -60 -60 z"/>
+      <path
+        fill="currentColor"
+        stroke-width="1.33333"
+        d="m 720,1620 v -60 H 600 480 v -60 -60 h -60 -60 v -60 -60 h -60 -60 v -60 -60 h 60 60 v 60 60 h 60 60 v 60 60 h 120 120 v 60 60 h 240 240 v -60 -60 h 120 120 v -60 -60 h 60 60 V 1140 960 h -60 -60 v -60 -60 h -60 -60 v -60 -60 h -60 -60 v -60 -60 h 60 60 v 60 60 h 60 60 v 60 60 h 60 60 v 60 60 h 60 60 v 180 180 h -60 -60 v 60 60 h -60 -60 v 60 60 h -120 -120 v 60 60 H 960 720 Z"/>
+    </g>
+  </g>
+</svg>
