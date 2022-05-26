@@ -75,6 +75,7 @@ export default {
   },
   sitemap: {
     exclude: [],
+    hostname: getDomain(),
     routes: ['mods']
   },
 
