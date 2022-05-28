@@ -2,6 +2,7 @@ export default {
   telemetry: false,
   // Target: https://go.nuxtjs.dev/config-target
   target: 'server',
+  ssr: true,
 
   server: {
     host: "0.0.0.0"

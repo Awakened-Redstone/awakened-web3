@@ -1,14 +1,14 @@
 <template>
   <div class="main">
-    <div class="card">
-      <NuxtLink to="/">
+    <NuxtLink to="/">
+      <div class="card">
         <h2>{{ error.message }}</h2>
         <p>
           An error occurred! Click this text to go back home, and find your way
           back!
         </p>
-      </NuxtLink>
-    </div>
+      </div>
+    </NuxtLink>
   </div>
 </template>
 
