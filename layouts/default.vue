@@ -14,10 +14,6 @@
                 <ModIcon/>
                 <span>Mods</span>
               </NuxtLink>
-              <NuxtLink to="/translations" class="tab has-icon">
-                <ModIcon/>
-                <span>Translations</span>
-              </NuxtLink>
               <a href="https://github.com/Awakened-Redstone" target="_blank" class="tab has-icon">
                 <GithubIcon/>
                 <span>Github</span>
@@ -43,11 +39,6 @@
         <NuxtLink to="/mods" class="tab">
           <ModIcon/>
           <span>Mods</span>
-        </NuxtLink>
-        <NuxtLink to="/translations" class="tab">
-          <ModIcon/>
-          <span>Translations</span>
-        </NuxtLink>
         <button class="tab" @click="toggleMobileMenu()">
           <HamburgerIcon/>
           <span>{{ isMobileMenuOpen ? 'Less' : 'More' }}</span>
