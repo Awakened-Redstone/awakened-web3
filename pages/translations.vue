@@ -1,5 +1,6 @@
 <template>
   <div class="page">
+  THIS PAGE IS DEPRECATED AND MAY NOT WORK PROPERLY
     <input
       id="search"
       v-model="query"
