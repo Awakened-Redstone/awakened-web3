@@ -94,6 +94,6 @@ export default ({ store }, inject) => {
       }
     }
 
-    return output.join(', ')
+    return (output.length === 0 ? versionArray : output).join(', ')
   })
 }
