@@ -13,7 +13,6 @@
         </h3>
       </div>
     </div>
-    Index!
   </div>
 </template>
 
